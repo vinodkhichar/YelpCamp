@@ -14,13 +14,14 @@
 
 ## Installation
 
-Clone the repository: `git clone https://github.com/vinodkhichar/YelpCamp.git`
+1. Clone the repository: `git clone https://github.com/vinodkhichar/YelpCamp.git`
                         `cd yelpcamp`
                         `npm install`
-Create a `.env` file in the root directory with the following variables:
+2. Create a `.env` file in the root directory with the following variables:
 
-   `DATABASEURL='<url>'`
-   `API_KEY=''<key>`
-   `API_SECRET='<secret>'`
-Run `mongod` in another terminal and `node app.js` in the terminal with the project.
+   ```plaintext
+   DATABASEURL='<url>'
+   API_KEY=''<key>
+   API_SECRET='<secret>'
+3. Run `mongod` in another terminal and `node app.js` in the terminal with the project.
    Then go to localhost:3000.
