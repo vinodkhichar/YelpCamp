@@ -2,7 +2,6 @@
 
 ![image](https://github.com/vinodkhichar/YelpCamp/assets/95199749/b8b379e3-3917-4cd1-9fac-60b9614be4f6)
 ![image](https://github.com/vinodkhichar/YelpCamp/assets/95199749/26830c43-6042-449c-9402-4e7efb45aef7)
-![image](https://github.com/vinodkhichar/YelpCamp/assets/95199749/ef112037-0521-46b7-b04f-e768bff5c1b5)
 ![image](https://github.com/vinodkhichar/YelpCamp/assets/95199749/4d6e6fce-a269-4882-abf4-34b053a36f62)
 
 ## Features
@@ -15,11 +14,13 @@
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/vinodkhichar/yelp-camp.git`
-2. Navigate to the project directory: `cd yelp-camp`
-3. Install dependencies: `npm install`
-4. Create a `.env` file in the root directory with the following variables:
+Clone the repository: `git clone https://github.com/vinodkhichar/YelpCamp.git`
+                        `cd yelpcamp`
+                        `npm install`
+Create a `.env` file in the root directory with the following variables:
 
-   ```plaintext
-   DATABASE_URL=your-mongodb-url
-   SECRET=your-session-secret
+   `DATABASEURL='<url>'`
+   `API_KEY=''<key>`
+   `API_SECRET='<secret>'`
+Run `mongod` in another terminal and `node app.js` in the terminal with the project.
+   Then go to localhost:3000.
