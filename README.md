@@ -12,6 +12,15 @@
 - **Interactive Map:** Explore campgrounds on an interactive map to help plan your next outdoor getaway.
 - **Responsive Design:** Enjoy a seamless experience on various devices, from desktop to mobile.
 
+##Technologies Used
+- **Node.js**
+- **Express.js**
+- **MongoDB**
+- **Passport.js (for authentication)**
+- **Mapbox API (for maps)**
+- **EJS (Embedded JavaScript) for views**
+- **Bootstrap (for styling)**
+
 ## Installation
 
 1. Create a cloudinary account to get an API key and secret code
