@@ -15,10 +15,10 @@
 ## Installation
 
 1. Create a cloudinary account to get an API key and secret code
-     ```plaintext
-                        git clone `https://github.com/vinodkhichar/YelpCamp.git`
-                        cd yelpcamp
-                        npm install
+    ```plaintext
+    git clone `https://github.com/vinodkhichar/YelpCamp.git`
+    cd yelpcamp
+    npm install
 3. Create a `.env` file in the root directory with the following variables:
 
    ```plaintext
