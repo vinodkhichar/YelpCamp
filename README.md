@@ -12,7 +12,7 @@
 - **Interactive Map:** Explore campgrounds on an interactive map to help plan your next outdoor getaway.
 - **Responsive Design:** Enjoy a seamless experience on various devices, from desktop to mobile.
 
-##Technologies Used
+## Technologies Used
 - **Node.js**
 - **Express.js**
 - **MongoDB**
